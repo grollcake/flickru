@@ -36,7 +36,7 @@
 ## 플리커 인증
 
 * 본인이 사용 할 [API KEY](https://www.flickr.com/services/api/keys/) 생성 필요 
-* 사진 업로드를 write 권한이 필요하며 Flickr OAuth 인증으로 토큰 획득 (최초 실행 시 1회만 수행)
+* 사진 업로드를 위해 write 권한이 필요하며 Flickr OAuth 인증으로 토큰 획득 (최초 실행 시 1회만 수행)
 
 
 ## 환경 파일
