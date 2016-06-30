@@ -9,15 +9,13 @@
 
     python3 flickru.py -k <api_key> -s <secret_key> -d /path/from
 
-<<<<<<< HEAD
 사진 업로드 후 특정 앨범에 사진 포함 (앨범이 없으면 생성 함)
 
     python3 flickru.py -k <api_key> -s <secret_key> -d /path/from --album "Auto Uploads"
-=======
+
 사진 업로드 및 앨범(예, Auto Uploads)에 사진 포함 (앨범이 없으면 생성 함)
 
     python3 flickru.py -k <api_key> -s <secret_key> -d /path/from -a "Auto Uploads"
->>>>>>> c9b6b5219b9327ccf734b9644f75b7ef3342332f
 
 사진 업로드 후 로컬 디렉토리의 사진은 삭제
 
